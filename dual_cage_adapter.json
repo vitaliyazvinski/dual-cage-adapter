@@ -1,0 +1,14 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "$fn": "330",
+            "angle": "40",
+            "bolt_part_length": "10",
+            "bottom_length": "74",
+            "height": "3",
+            "holes_diameter": "5",
+            "width": "19"
+        }
+    },
+    "fileFormatVersion": "1"
+}
